@@ -1,0 +1,105 @@
+,,,,,,,,,,,
+Verizon Communications Inc (VZ US) - Telecom,,,,,,,,,,,
+,,,,,,,,,,,
+In Millions of USD except Per Share,,FY 2013,FY 2014,FY 2015,FY 2016,FY 2017,FY 2018,FY 2019,FY 2020,FY 2021,FY 2022
+12 Months Ending,,12/31/2013,12/31/2014,12/31/2015,12/31/2016,12/31/2017,12/31/2018,12/31/2019,12/31/2020,12/31/2021,12/31/2022
+Wireless,,,,,,,,,,,
+Revenues,,,,,,,,,,,
+Wireless Revenue,WIRELESS_REVENUE,"81,023.0","87,646.0","91,680.0","89,186.0","87,511.0","91,734.0","94,114.0","92,073.0","99,488.0","108,955.0"
+Wireless Service Revenue,CELLULAR_SERVICE_REVENUE,"69,033.0","72,630.0","70,396.0","66,580.0","63,121.0","63,020.0","65,410.0","65,410.0","68,469.0","74,354.0"
+Wireless Equipment Revenue,EQUIP_REVENUES_CELLULAR_TELECOM,"8,111.0","10,959.0","16,924.0","17,515.0","18,889.0","22,258.0","21,563.0","18,420.0","23,164.0","27,210.0"
+,,,,,,,,,,,
+Subscribers,,,,,,,,,,,
+Total Wireless Subscribers (RGU),NUMBER_OF_CELLULAR_SUBSCRIBERS,"102,799.0","108,211.0","112,108.0","114,243.0","116,257.0","117,999.0","119,692.0","120,880.0","142,806.0","143,253.0"
+Wireless Subscribers-Postpaid,TOTAL_WIRELESS_SUBSCRIBERS_PPD,"96,752.0","102,079.0","106,528.0","108,796.0","110,854.0","113,353.0","115,629.0","116,853.0","118,954.0","120,589.0"
+Wireless Subscribers-Prepaid,TOTAL_WIRELESS_SUBSCRIBERS_PREPD,"6,047.0","6,132.0","5,580.0","5,447.0","5,403.0","4,646.0","4,063.0","4,027.0","23,852.0","22,664.0"
+Average Wireless Subscribers,AVERAGE_WIRELESS_SUBSCRIBERS,"100,514.5","105,505.0","110,159.5","113,175.5","115,250.0","117,128.0","118,845.5","120,286.0","131,843.0","143,029.5"
+,,,,,,,,,,,
+Subscriber Additions,,,,,,,,,,,
+Wireless Subscriber Additions,CELLULAR_NET_SUBSCRIBER_ADDITION,"4,472.0","5,568.0","3,956.0","2,155.0","2,041.0","1,769.0","1,770.0","1,513.0","2,063.0","2,160.0"
+Organic Net Additions,ORGANIC_NET_ADDS,"4,472.0","5,568.0","3,956.0","2,155.0","2,041.0","1,769.0","1,770.0","1,513.0","2,063.0","2,160.0"
+Net Wireless Additions-Postpaid,NET_WIRELESS_SUBSCRIBER_ADDS_PPD,"4,118.0","5,482.0","4,507.0","2,288.0","2,084.0","2,526.0","2,361.0","1,558.0","2,115.0","2,605.0"
+Net Wireless Additions-Prepaid,NET_WIRELESS_SUBSCR_ADDS_PREPD,354.0,86.0,-551.0,-133.0,-43.0,-757.0,-591.0,-45.0,-52.0,-445.0
+,,,,,,,,,,,
+Churn (%),,,,,,,,,,,
+Blended,TELECOM_CELLULAR_CHURN_RATE,1.27,1.33,1.24,1.26,1.25,1.23,1.27,1.07,1.14,1.58
+Postpaid,WIRELESS_POSTPAID_CHURN,0.97,1.04,0.96,1.01,1.01,1.03,1.09,0.94,0.98,1.10
+,,,,,,,,,,,
+Monthly Average Revenue per User,,,,,,,,,,,
+Wireless Average Revenue Per Unit (ARPU),AVG_REVENUE_PER_CELL_SUBSCRIBER,228.93,54.90,213.01,48.57,45.24,44.51,65.56,63.47,Ñ,Ñ
+,,,,,,,,,,,
+Other Data,,,,,,,,,,,
+Fourth Generation Markets,FOURTH_GENERATION_MARKETS,500.00,500.00,500.00,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ
+,,,,,,,,,,,
+Financial Data,,,,,,,,,,,
+EBITDA,EBITDA,"48,574.0","36,132.0","49,077.0","45,177.0","44,379.0","39,681.0","51,635.0","50,367.0","53,709.0","52,712.0"
+Operating Income,ARD_OPERATING_INCOME,"31,968.0","19,599.0","33,060.0","29,249.0","27,425.0","22,278.0","30,378.0","28,798.0","32,448.0","30,467.0"
+Capital Expenditures/Prop Add,CF_CAP_EXPEND_PRPTY_ADD,"-16,604.0","-17,191.0","-17,775.0","-17,059.0","-17,247.0","-16,658.0","-17,939.0","-18,192.0","-20,286.0","-23,087.0"
+,,,,,,,,,,,
+Wireline,,,,,,,,,,,
+Revenues,,,,,,,,,,,
+Wireline Revenue,WIRELINE_REVENUE,"39,223.0","38,429.0","32,094.0","30,510.0","30,680.0","29,760.0","28,557.0","30,962.0","31,042.0","31,072.0"
+Wireline Residential Revenue,WIRELINE_RESIDENTIAL_REVENUE,"17,328.0","18,047.0","14,440.0","16,107.0","16,362.0","15,986.0",Ñ,Ñ,Ñ,Ñ
+Wireline Business Revenue,WIRELINE_BUSINESS_REVENUE,"14,703.0","13,684.0","12,050.0","14,091.0","14,084.0","13,532.0",Ñ,Ñ,Ñ,Ñ
+Strategic Services Revenue,STRATEGIC_SERVICES_REVENUE,"8,420.0","8,326.0","8,165.0",Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ
+,,,,,,,,,,,
+Subscribers,,,,,,,,,,,
+Total Wireline Subscribers (RGU),NUMBER_OF_WIRELINE_SUBSCRIBERS,"21,085.0","19,795.0","15,035.0","13,939.0","12,821.0","11,732.0","10,713.0",Ñ,Ñ,Ñ
+Residential Access Lines,RESIDENTIAL_ACCESS_LINES,"11,229.0","10,615.0","7,949.0","7,355.0","6,804.0",Ñ,Ñ,Ñ,Ñ,Ñ
+Total Cable Subscribers,TOTAL_CABLE_SUBSCRIBERS,5.3,5.6,5.8,4.7,4.6,4.5,4.2,3.9,3.6,3.3
+Broadband Internet Subscribers,BROADBAND_HSI_SUBSCRIBERS,"9,015.0","9,205.0","7,085.0","7,038.0","6,959.0","6,961.0","6,956.0","7,129.0","7,365.0","7,484.0"
+,,,,,,,,,,,
+Subscriber Additions,,,,,,,,,,,
+Total Cable Subscriber Additions,TOTAL_CABLE_SUBSCRIBER_ADDS,0.5,0.4,0.2,0.1,-0.1,-0.2,-0.2,-0.3,-0.3,-0.3
+Broadband Net Subscriber Adds,BROADBAND_HSI_NET_SUBSCRIB_ADDS,"220,000.00","190,000.00","61,000.00","-47,000.00","-79,000.00","2,000.00","-5,000.00","173,000.00","236,000.00","119,000.00"
+,,,,,,,,,,,
+IPTV & Broadband,,,,,,,,,,,
+Digital Cable Revenue,DIGITAL_CABLE_REVENUE,"11,152.0","12,674.0","13,763.0","11,236.0","11,691.0","11,939.0","12,192.0","12,139.0","12,694.0","12,823.0"
+Total Cable Subscribers,TOTAL_CABLE_SUBSCRIBERS,5.3,5.6,5.8,4.7,4.6,4.5,4.2,3.9,3.6,3.3
+Total Cable Subscriber Additions,TOTAL_CABLE_SUBSCRIBER_ADDS,0.5,0.4,0.2,0.1,-0.1,-0.2,-0.2,-0.3,-0.3,-0.3
+Broadband/High Speed Internet Subscribers,BROADBAND_HSI_SUBSCRIBERS,"9,015.0","9,205.0","7,085.0","7,038.0","6,959.0","6,961.0","6,956.0","7,129.0","7,365.0","7,484.0"
+Broadband/High Speed Internet Net Subscriber Adds,BROADBAND_HSI_NET_SUBSCRIB_ADDS,"220,000.00","190,000.00","61,000.00","-47,000.00","-79,000.00","2,000.00","-5,000.00","173,000.00","236,000.00","119,000.00"
+Video ARPU,VIDEO_ARPU,Ñ,Ñ,196.83,199.47,210.92,223.53,240.25,257.60,Ñ,Ñ
+Total Cable Penetration,TOTAL_CABLE_PENETRATION,35.00,35.80,35.30,34.30,32.30,Ñ,Ñ,Ñ,Ñ,Ñ
+,,,,,,,,,,,
+Financial Data,,,,,,,,,,,
+Cost of Revenue,IS_COGS_TO_FE_AND_PP_AND_G,"44,887.0","49,931.0","52,557.0","52,701.0","53,063.0","55,508.0","54,726.0","51,201.0","56,301.0","59,133.0"
+Gross Profit,GROSS_PROFIT,"75,663.0","77,148.0","79,063.0","73,279.0","72,971.0","75,355.0","77,142.0","77,091.0","77,312.0","77,702.0"
+EBITDA,EBITDA,"48,574.0","36,132.0","49,077.0","45,177.0","44,379.0","39,681.0","51,635.0","50,367.0","53,709.0","52,712.0"
+Operating Income or Losses,IS_OPER_INC,"31,968.0","19,599.0","33,060.0","29,249.0","27,425.0","22,278.0","30,378.0","28,798.0","32,448.0","30,467.0"
+Capital Expenditures/Prop Add,CF_CAP_EXPEND_PRPTY_ADD,"-16,604.0","-17,191.0","-17,775.0","-17,059.0","-17,247.0","-16,658.0","-17,939.0","-18,192.0","-20,286.0","-23,087.0"
+,,,,,,,,,,,
+Financial Margins,,,,,,,,,,,
+Gross Margin,GROSS_MARGIN,62.76,60.71,60.07,58.17,57.90,57.58,58.50,60.09,57.86,56.79
+EBITDA Margin,EBITDA_TO_REVENUE,40.29,28.43,37.29,35.86,35.21,30.32,39.16,39.26,40.20,38.52
+Operating Margin,OPER_MARGIN,26.52,15.42,25.12,23.22,21.76,17.02,23.04,22.45,24.29,22.27
+,,,,,,,,,,,
+Aggregate,,,,,,,,,,,
+Revenue,SALES_REV_TURN,"120,550.0","127,079.0","131,620.0","125,980.0","126,034.0","130,863.0","131,868.0","128,292.0","133,613.0","136,835.0"
+Gross Profit,GROSS_PROFIT,"75,663.0","77,148.0","79,063.0","73,279.0","72,971.0","75,355.0","77,142.0","77,091.0","77,312.0","77,702.0"
+EBITDA,EBITDA,"48,574.0","36,132.0","49,077.0","45,177.0","44,379.0","39,681.0","51,635.0","50,367.0","53,709.0","52,712.0"
+Operating Income or Losses,IS_OPER_INC,"31,968.0","19,599.0","33,060.0","29,249.0","27,425.0","22,278.0","30,378.0","28,798.0","32,448.0","30,467.0"
+Normalized Income,NORMALIZED_INCOME,"8,279.5","13,327.0","16,254.6","15,809.0","15,297.0","19,493.5","19,941.8","20,466.6","22,388.0","21,389.2"
+,,,,,,,,,,,
+Dividends,,,,,,,,,,,
+Dividends per Share,EQY_DPS,2.09,2.16,2.23,2.29,2.34,2.39,2.44,2.49,2.54,2.59
+Dividend Indicated Yld - Gross,EQY_DVD_YLD_IND,4.31,4.70,4.89,4.33,4.46,4.29,4.01,4.27,4.93,6.62
+Dividend Coverage Ratio,CASH_DVD_COVERAGE,1.92,1.12,1.96,1.41,3.16,1.58,1.91,1.73,2.10,1.96
+,,,,,,,,,,,
+Cash Flows,,,,,,,,,,,
+Working Capital,WORKING_CAPITAL,"43,944.0","1,512.0","-12,697.0","-3,945.0","-3,124.0","-3,294.0","-7,395.0","14,934.0","-10,432.0","-12,314.0"
+Cash From Operations,CF_CASH_FROM_OPER,"38,818.0","30,631.0","39,027.0","21,689.0","24,318.0","34,339.0","35,746.0","41,768.0","39,539.0","37,141.0"
+Capital Expenditures/Prop Add,CF_CAP_EXPEND_PRPTY_ADD,"-16,604.0","-17,191.0","-17,775.0","-17,059.0","-17,247.0","-16,658.0","-17,939.0","-18,192.0","-20,286.0","-23,087.0"
+Free Cash Flow,CF_FREE_CASH_FLOW,"22,214.0","13,440.0","21,252.0","4,630.0","7,071.0","17,681.0","17,807.0","23,576.0","19,253.0","14,054.0"
+Free Cash Flow/Diluted Share,FCF_PER_DIL_SHR,7.73,3.38,5.19,1.13,1.73,4.28,4.30,5.69,4.64,3.34
+,,,,,,,,,,,
+Other,,,,,,,,,,,
+Average Revenue Per Customer,AVG_MONTHLY_REV_PER_CUSTOMER,Ñ,229.47,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ
+Total Monthly Churn Rate,TOTAL_MONTHLY_CHURN_RATE,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,1.28,1.03,1.10,1.63
+Wireline Service Revenue,WIRELINE_SERVICE_REVENUE,"38,745.0","37,953.0","31,753.0","30,510.0","30,680.0","29,760.0","28,557.0","30,962.0","31,042.0","31,072.0"
+Wireline ARPU Monthly,ARPU_AVG_REVENUE_PER_SUBSCRIBER,111.96,124.11,170.95,182.40,199.41,211.39,222.14,Ñ,Ñ,Ñ
+Total Cable Homes Passed,TOTAL_CABLE_HOMES_PASSED,15.0,15.8,16.5,13.7,14.3,Ñ,Ñ,Ñ,Ñ,Ñ
+Internet/Data Homes Passed,INTERNET_ACCESS_HOMES_PASSED,15.4,16.1,16.8,14.0,14.6,Ñ,Ñ,Ñ,Ñ,Ñ
+Internet/Data Penetration,INTERNET_PENETRATION,39.50,41.10,41.80,40.40,40.10,Ñ,Ñ,Ñ,Ñ,Ñ
+Internet/Data Subscriber Additions,INTERNET_DATA_SUBSCRIBER_ADDS,0.2,0.2,0.0,0.0,-0.1,0.0,0.0,0.2,0.2,0.1
+Source: Bloomberg,,Right click to show data transparency (not supported for all values),,,,,,,,,

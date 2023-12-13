@@ -1,0 +1,113 @@
+,,,,,,,,,,,
+AT&T Inc (T US) - Telecom,,,,,,,,,,,
+,,,,,,,,,,,
+In Millions of USD except Per Share,,FY 2013,FY 2014,FY 2015,FY 2016,FY 2017,FY 2018,FY 2019,FY 2020,FY 2021,FY 2022
+12 Months Ending,,12/31/2013,12/31/2014,12/31/2015,12/31/2016,12/31/2017,12/31/2018,12/31/2019,12/31/2020,12/31/2021,12/31/2022
+Wireless,,,,,,,,,,,
+Revenues,,,,,,,,,,,
+Wireless Revenue,WIRELESS_REVENUE,"69,899.0","73,992.0","73,705.0","72,821.0","70,259.0","70,521.0","71,056.0","72,564.0","78,254.0","81,780.0"
+Wireless Service Revenue,CELLULAR_SERVICE_REVENUE,"61,552.0","61,032.0","59,837.0","59,386.0","57,023.0","54,295.0","55,331.0","55,542.0","57,590.0","60,499.0"
+Wireless Equipment Revenue,EQUIP_REVENUES_CELLULAR_TELECOM,"8,347.0","12,960.0","13,868.0","13,435.0","13,271.0","16,226.0","15,725.0","17,022.0","20,664.0","21,281.0"
+Wireless Data/SMS Revenue,WIRELESS_DATA_SMS_REVENUE,"21,719.0",Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ
+,,,,,,,,,,,
+Subscribers,,,,,,,,,,,
+Total Wireless Subscribers (RGU),NUMBER_OF_CELLULAR_SUBSCRIBERS,"110,376.0","120,554.0","137,324.0","146,832.0","156,666.0","151,921.0","165,889.0","182,558.0","201,791.0","217,397.0"
+Wireless Subscribers-Postpaid,TOTAL_WIRELESS_SUBSCRIBERS_PPD,"72,638.0","75,770.0","77,105.0","77,372.0","77,875.0","76,068.0","75,207.0","77,154.0","81,534.0","84,700.0"
+Wireless Subscribers-Prepaid,TOTAL_WIRELESS_SUBSCRIBERS_PREPD,"7,384.0","9,965.0","11,548.0","13,536.0","15,335.0","16,828.0","17,803.0","18,102.0","19,028.0","19,176.0"
+Average Wireless Subscribers,AVERAGE_WIRELESS_SUBSCRIBERS,"108,666.5","115,465.0","128,939.0","142,078.0","151,749.0","154,293.5","158,905.0","174,223.5","192,174.5","209,594.0"
+,,,,,,,,,,,
+Subscriber Additions,,,,,,,,,,,
+Wireless Subscriber Additions,CELLULAR_NET_SUBSCRIBER_ADDITION,"3,419.0","5,608.0","8,059.0","6,196.0","9,427.0","11,936.0","13,959.0","16,898.0","19,232.0","25,626.0"
+Organic Net Additions,ORGANIC_NET_ADDS,"3,419.0","5,608.0","8,059.0","6,196.0","9,427.0","11,936.0","13,959.0","16,898.0","19,232.0","25,626.0"
+Net Wireless Additions-Postpaid,NET_WIRELESS_SUBSCRIBER_ADDS_PPD,"1,776.0","3,290.0","1,666.0",986.0,594.0,-90.0,-435.0,"2,183.0","4,482.0","4,091.0"
+Net Wireless Additions-Prepaid,NET_WIRELESS_SUBSCR_ADDS_PREPD,-13.0,-311.0,"1,364.0","1,575.0","1,013.0","1,301.0",677.0,379.0,956.0,479.0
+,,,,,,,,,,,
+Churn (%),,,,,,,,,,,
+Blended,TELECOM_CELLULAR_CHURN_RATE,1.37,1.45,1.39,1.48,1.36,Ñ,Ñ,Ñ,Ñ,Ñ
+Postpaid,WIRELESS_POSTPAID_CHURN,1.06,1.04,1.09,1.07,1.08,1.12,1.18,0.98,0.94,0.97
+,,,,,,,,,,,
+Monthly Average Revenue per User,,,,,,,,,,,
+Wireless Average Revenue Per Unit (ARPU),AVG_REVENUE_PER_CELL_SUBSCRIBER,Ñ,51.15,38.78,37.56,35.36,38.68,35.69,33.12,48.97,33.39
+Postpaid ARPU,POSTPAID_ARPU,Ñ,60.62,55.58,53.59,52.51,49.06,50.18,49.95,48.97,49.95
+,,,,,,,,,,,
+Other Data,,,,,,,,,,,
+Connected Device Subscribers,CONNECTED_DEVICE_SUBSCRIBERS,"16,326.0","20,964.0","26,213.0","31,591.0","38,991.0","51,332.0","65,986.0","80,767.0","95,116.0","107,478.0"
+,,,,,,,,,,,
+Financial Data,,,,,,,,,,,
+Wireless Cost Of Equipment,COST_OF_EQUIPMENT_CELLULAR_TELEC,Ñ,"16,720.0",Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ
+EBITDA,EBITDA,"48,874.0","30,485.0","46,801.0","50,194.0","44,357.0","54,526.0","61,856.0","40,817.0","49,112.0","18,871.0"
+Operating Income,ARD_OPERATING_INCOME,"30,479.0","12,212.0","24,785.0","24,347.0","19,970.0","26,096.0","27,955.0","6,405.0","25,897.0","-4,587.0"
+Capital Expenditures/Prop Add,CF_CAP_EXPEND_PRPTY_ADD,"-20,944.0","-21,433.0","-20,015.0","-22,408.0","-21,550.0","-21,251.0","-19,635.0","-15,675.0","-15,545.0","-19,626.0"
+,,,,,,,,,,,
+Wireline,,,,,,,,,,,
+Revenues,,,,,,,,,,,
+Wireline Revenue,WIRELINE_REVENUE,"58,814.0","73,992.0","67,781.0","82,662.0","79,198.0","99,929.0","71,293.0","66,277.0","36,476.0","35,287.0"
+Wireline Voice Revenue,WIRELINE_VOICE_REVENUE,"20,333.0","22,171.0","22,105.0","19,936.0","17,382.0","12,080.0","10,737.0","9,570.0","3,454.0","3,080.0"
+Internet/Data Revenue,INTERNET_DATA_REVENUE,"21,719.0","13,114.0","12,515.0","12,301.0","11,594.0","10,998.0","10,976.0","10,747.0","11,062.0","11,415.0"
+Wireline Residential Revenue,WIRELINE_RESIDENTIAL_REVENUE,"22,264.0","10,851.0","10,514.0","10,125.0","9,334.0",Ñ,Ñ,Ñ,Ñ,Ñ
+Wireline Business Revenue,WIRELINE_BUSINESS_REVENUE,"35,504.0","22,532.0","21,973.0","21,243.0","20,275.0",Ñ,Ñ,Ñ,Ñ,Ñ
+Strategic Services Revenue,STRATEGIC_SERVICES_REVENUE,"8,482.0","9,666.0","10,383.0","11,431.0","12,227.0","14,649.0","15,430.0","15,788.0",Ñ,Ñ
+,,,,,,,,,,,
+Subscribers,,,,,,,,,,,
+Total Wireline Subscribers (RGU),NUMBER_OF_WIRELINE_SUBSCRIBERS,"28,489.0","24,778.0","22,123.0","19,773.0","17,435.0","15,116.0","12,857.0","11,079.0","9,510.0","8,143.0"
+Residential Access Lines,RESIDENTIAL_ACCESS_LINES,"16,251.0","14,002.0","12,498.0","11,278.0","9,996.0","8,549.0","7,123.0","6,093.0","2,423.0","2,028.0"
+Business Access Lines,BUSINESS_ACCESS_LINES,"10,364.0","5,894.0","1,788.0","3,008.0","1,804.0","1,453.0","1,364.0","1,170.0","1,018.0",874.0
+Total Cable Subscribers,TOTAL_CABLE_SUBSCRIBERS,5.4,5.9,25.4,25.5,25.2,24.5,20.4,17.2,Ñ,Ñ
+Broadband Internet Subscribers,BROADBAND_HSI_SUBSCRIBERS,"16,425.0","16,028.0","15,778.0","15,605.0","15,719.0","15,701.0","15,389.0","15,384.0","15,504.0","15,386.0"
+,,,,,,,,,,,
+Subscriber Additions,,,,,,,,,,,
+Total Cable Subscriber Additions,TOTAL_CABLE_SUBSCRIBER_ADDS,0.9,0.7,-0.1,0.1,-0.3,-0.8,-4.1,-3.3,1.1,1.1
+Broadband Net Subscriber Adds,BROADBAND_HSI_NET_SUBSCRIB_ADDS,"35,000.00","11,000.00","-157,000.00","-107,000.00","171,000.00","59,000.00","-313,000.00","-5,000.00","60,000.00","-169,000.00"
+,,,,,,,,,,,
+IPTV & Broadband,,,,,,,,,,,
+Digital Cable Revenue,DIGITAL_CABLE_REVENUE,"12,000.0","21,535.6","22,422.0","41,370.0","42,184.0","38,141.0","36,204.0","31,611.0","35,512.0","34,896.0"
+Total Cable Subscribers,TOTAL_CABLE_SUBSCRIBERS,5.4,5.9,25.4,25.5,25.2,24.5,20.4,17.2,Ñ,Ñ
+Total Cable Subscriber Additions,TOTAL_CABLE_SUBSCRIBER_ADDS,0.9,0.7,-0.1,0.1,-0.3,-0.8,-4.1,-3.3,1.1,1.1
+Broadband/High Speed Internet Subscribers,BROADBAND_HSI_SUBSCRIBERS,"16,425.0","16,028.0","15,778.0","15,605.0","15,719.0","15,701.0","15,389.0","15,384.0","15,504.0","15,386.0"
+Broadband/High Speed Internet Net Subscriber Adds,BROADBAND_HSI_NET_SUBSCRIB_ADDS,"35,000.00","11,000.00","-157,000.00","-107,000.00","171,000.00","59,000.00","-313,000.00","-5,000.00","60,000.00","-169,000.00"
+Video ARPU,VIDEO_ARPU,Ñ,301.97,Ñ,137.97,139.25,129.64,147.89,153.50,189.70,164.50
+Total Cable Penetration,TOTAL_CABLE_PENETRATION,21.00,22.00,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ
+,,,,,,,,,,,
+Financial Data,,,,,,,,,,,
+Cost of Revenue,IS_COGS_TO_FE_AND_PP_AND_G,"51,464.0","60,145.0","67,046.0","76,884.0","77,810.0","79,419.0","84,141.0","79,920.0","60,407.0","50,848.0"
+Gross Profit,GROSS_PROFIT,"77,288.0","72,302.0","79,755.0","86,902.0","82,736.0","91,337.0","97,052.0","91,840.0","73,631.0","69,893.0"
+EBITDA,EBITDA,"48,874.0","30,485.0","46,801.0","50,194.0","44,357.0","54,526.0","61,856.0","40,817.0","49,112.0","18,871.0"
+Operating Income or Losses,IS_OPER_INC,"30,479.0","12,212.0","24,785.0","24,347.0","19,970.0","26,096.0","27,955.0","6,405.0","25,897.0","-4,587.0"
+Capital Expenditures/Prop Add,CF_CAP_EXPEND_PRPTY_ADD,"-20,944.0","-21,433.0","-20,015.0","-22,408.0","-21,550.0","-21,251.0","-19,635.0","-15,675.0","-15,545.0","-19,626.0"
+,,,,,,,,,,,
+Financial Margins,,,,,,,,,,,
+Gross Margin,GROSS_MARGIN,60.03,54.59,54.33,53.06,51.53,53.49,53.56,53.47,54.93,57.89
+EBITDA Margin,EBITDA_TO_REVENUE,37.96,23.02,31.88,30.65,27.63,31.93,34.14,23.76,36.64,15.63
+Operating Margin,OPER_MARGIN,23.67,9.22,16.88,14.87,12.44,15.28,15.43,3.73,19.32,-3.80
+,,,,,,,,,,,
+Aggregate,,,,,,,,,,,
+Revenue,SALES_REV_TURN,"128,752.0","132,447.0","146,801.0","163,786.0","160,546.0","170,756.0","181,193.0","171,760.0","134,038.0","120,741.0"
+Gross Profit,GROSS_PROFIT,"77,288.0","72,302.0","79,755.0","86,902.0","82,736.0","91,337.0","97,052.0","91,840.0","73,631.0","69,893.0"
+EBITDA,EBITDA,"48,874.0","30,485.0","46,801.0","50,194.0","44,357.0","54,526.0","61,856.0","40,817.0","49,112.0","18,871.0"
+Operating Income or Losses,IS_OPER_INC,"30,479.0","12,212.0","24,785.0","24,347.0","19,970.0","26,096.0","27,955.0","6,405.0","25,897.0","-4,587.0"
+Normalized Income,NORMALIZED_INCOME,"14,071.6","12,710.3","13,663.6","13,486.1","14,297.2","22,316.9","16,525.9","12,944.0","22,421.6","20,985.3"
+,,,,,,,,,,,
+Dividends,,,,,,,,,,,
+Dividends per Share,EQY_DPS,1.81,1.85,1.89,1.93,1.97,2.01,2.05,2.08,2.08,1.11
+Dividend Indicated Yld - Gross,EQY_DVD_YLD_IND,6.93,7.42,7.39,6.11,6.82,9.47,7.05,9.58,11.20,6.03
+Dividend Coverage Ratio,CASH_DVD_COVERAGE,1.88,0.67,1.24,1.09,2.42,1.37,0.93,Ñ,1.47,Ñ
+,,,,,,,,,,,
+Cash Flows,,,,,,,,,,,
+Working Capital,WORKING_CAPITAL,"-11,799.0","-3,676.0","-11,824.0","-12,207.0","-2,243.0","-12,993.0","-14,150.0","-11,430.0","64,538.0","-23,065.0"
+Cash From Operations,CF_CASH_FROM_OPER,"34,796.0","31,338.0","35,880.0","38,442.0","38,010.0","43,602.0","48,668.0","43,130.0","41,958.0","32,023.0"
+Capital Expenditures/Prop Add,CF_CAP_EXPEND_PRPTY_ADD,"-20,944.0","-21,433.0","-20,015.0","-22,408.0","-21,550.0","-21,251.0","-19,635.0","-15,675.0","-15,545.0","-19,626.0"
+Free Cash Flow,CF_FREE_CASH_FLOW,"13,852.0","9,905.0","15,865.0","16,034.0","16,460.0","22,351.0","29,033.0","27,455.0","26,413.0","12,397.0"
+Free Cash Flow/Diluted Share,FCF_PER_DIL_SHR,2.57,1.90,2.81,2.59,2.66,3.28,3.95,3.82,3.52,1.63
+,,,,,,,,,,,
+Other,,,,,,,,,,,
+Total Monthly Churn Rate,TOTAL_MONTHLY_CHURN_RATE,Ñ,Ñ,1.09,1.07,1.08,1.12,1.18,0.98,0.94,0.97
+Wireless Population,LICENSED_POPULATION_CELLULAR_TEL,"317,000.0","321,000.0","321,000.0","322,000.0","326,000.0",Ñ,Ñ,Ñ,Ñ,Ñ
+Wireline Service Revenue,WIRELINE_SERVICE_REVENUE,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,"32,123.0","28,465.0","23,224.0","21,891.0"
+Wireline Equipment  Revenue,WIRELINE_EQUIPMENT_REVENUE,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,1.0,145.0,713.0,647.0
+Total Cable Homes Passed,TOTAL_CABLE_HOMES_PASSED,Ñ,27.0,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ
+Digital Cable Subscriber,DIGITAL_CUSTOMERS,5.4,5.9,25.4,25.3,24.1,24.5,20.4,17.2,20.2,21.2
+Digital Cable Penetration,DIGITAL_PENETRATION,21.00,22.00,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ
+Digital Cable Subscriber Additions,DIGITAL_CABLE_SUBSCRIBER_ADDS,0.9,0.7,-0.3,-1.4,-0.6,-0.8,-4.1,-3.3,1.1,1.1
+Internet/Data Subscriber Additions,INTERNET_DATA_SUBSCRIBER_ADDS,0.0,0.0,-0.2,-0.1,0.2,0.1,-0.3,0.0,0.1,-0.2
+Internet/Data ARPU,INTERNET_DATA_ARPU,Ñ,Ñ,Ñ,Ñ,61.46,63.61,64.78,63.52,65.10,67.99
+Source: Bloomberg,,Right click to show data transparency (not supported for all values),,,,,,,,,
